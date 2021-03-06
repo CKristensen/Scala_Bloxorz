@@ -1,0 +1,7 @@
+.idea
+null
+project
+target
+assignment.sbt
+build.sbt
+.scalafix.conf
